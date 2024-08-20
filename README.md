@@ -1,26 +1,40 @@
-# Lama Dev School Management Dashboard
+# School Management System
+
+A comprehensive School Management System built using Next.js 14 and Tailwind CSS. This project is designed to manage various aspects of school operations, including student information, attendance, grades, and more.
+
+## Features
+
+- **Student Management**: Add, edit, and view student details.
+- **Teacher Management**: Manage teacher profiles and assignments.
+- **Class Scheduling**: Create and manage class schedules.
+- **Attendance Tracking**: Record and monitor student attendance.
+- **Grade Management**: Input and analyze student grades.
+- **User Authentication**: Secure login and user roles for different access levels.
+- **Responsive Design**: Optimized for both desktop and mobile devices using Tailwind CSS.
+
+## Tech Stack
+
+- **Framework**: [Next.js 14](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
+- Node.js 16.x or higher
+- npm or yarn
+
+### Installation
+
+npm install
+
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+yarn install
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Clone the repository**
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)"# Next14_SMS" 
+   ```bash
+   git clone https://github.com/Rafiqdevhub/Next14_SMS.git
+   cd Next14_SMS
+   ```
